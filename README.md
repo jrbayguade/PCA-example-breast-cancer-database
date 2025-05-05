@@ -1,6 +1,9 @@
 🧪 PCA Analysis of Breast Cancer Dataset
 This repository contains a Principal Component Analysis (PCA) exercise using the Breast Cancer Wisconsin (Diagnostic) dataset from Scikit-learn.
 
+🧪 Factor Analysis
+After walking trhough the PCA, I'll then apply the Factor Reduction algorithm to figure out what approach provides more insights.
+
 🔍 Overview
 The goal of this project is to explore and visualize high-dimensional medical data using Principal Component Analysis (PCA) . This technique helps in:
 - Reducing dimensionality.
